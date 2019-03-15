@@ -1,5 +1,5 @@
 # Fixup
-A Re-implementation of Fixed-update Initialization (https://arxiv.org/abs/1901.09321) *(needs Pytorch 1.0)*.
+**A Re-implementation of Fixed-update Initialization (https://arxiv.org/abs/1901.09321). *(requires Pytorch 1.0)***
 
 **Cite as:**
 
