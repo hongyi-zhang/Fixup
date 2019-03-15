@@ -1,5 +1,9 @@
 # Fixup
-A Re-implementation of Fixed-update Initialization (https://arxiv.org/abs/1901.09321). *(Works on Pytorch 1.0)*
+A Re-implementation of Fixed-update Initialization (https://arxiv.org/abs/1901.09321) *(needs Pytorch 1.0)*.
+
+**Cite as:**
+
+*Hongyi Zhang, Yann N. Dauphin, Tengyu Ma. Fixup Initialization: Residual Learning Without Normalization. 7th International Conference on Learning Representations (ICLR 2019).*
 
 ----
 ## ResNet for CIFAR-10
