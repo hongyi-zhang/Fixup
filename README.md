@@ -18,7 +18,7 @@ CUDA_VISIBLE_DEVICES=0 python cifar_train.py -a fixup_resnet32 --sess benchmark_
 
 ----
 ## ResNet for ImageNet
-ImageNet models with training script are now available. (Thanks @tjingrant for help!) 
+ImageNet models with training scripts are now available. (Thanks @tjingrant for help!) 
 
 Top-1 accuracy for ResNet-50 at Epoch 100 with Mixup (alpha=0.7) is around 76.0%.
 
