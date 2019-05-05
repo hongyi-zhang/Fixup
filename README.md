@@ -24,4 +24,6 @@ Top-1 accuracy for ResNet-50 at Epoch 100 with Mixup (alpha=0.7) is around 76.0%
 
 ----
 ## Transformer for machine translation
-Stay tuned!
+Transformer model with Fixup (instead of layer normalization) is available. To run the experiments, you will need to download and install the fairseq library (the provided code was tested on an earlier version: https://github.com/pytorch/fairseq/tree/5d00e8eea2644611f397d05c6c8f15083388b8b4). You can then copy the files into corresponding folders.
+
+An example script `run.sh` is provided to run the IWSLT experiments described in the paper. For more information, please refer to the instructions in fairseq repo (https://github.com/pytorch/fairseq/tree/5d00e8eea2644611f397d05c6c8f15083388b8b4/examples/translation).
